@@ -1,7 +1,7 @@
 {
     "query-slug":
         {
-            "db_url": "${DATABASE_URL}",
-            "query": "SELECT * FROM products"
-        },
+            "db_url": "${DB_URL}",
+            "query": "SELECT * FROM t_random"
+        }
 }
