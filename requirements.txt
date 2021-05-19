@@ -1,1 +1,1 @@
-fast-query-store==0.0.6.dev0
+fast-query-store==0.0.7.dev0
