@@ -3,5 +3,10 @@
         {
             "db_url": "${DB_URL}",
             "query": "SELECT * FROM t_random"
+        },
+    "query-slug-1":
+        {
+            "db_url": "${DB_URL}",
+            "query": "SELECT COUNT(1) FROM t_random"
         }
 }
